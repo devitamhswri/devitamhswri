@@ -39,7 +39,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devitamhswri&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devitamhswri&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devitamhswri&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devitamhswri&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devitamhswri&theme=nord)](https://git.io/streak-stats) |
+  [![GitHub Streak](https://streak-stats.demolab.com?user=devitamhswri&theme=nord)](https://git.io/streak-stats)
 | :-: | :-: |
   
 </div>
